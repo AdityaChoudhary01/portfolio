@@ -1,0 +1,33 @@
+[
+  {
+    "name": "YumRide",
+    "image": "yumride.png",
+    "description": "YumRide is an innovative food delivery platform that connects users with their favorite local restaurants and delivers delicious meals right to their doorstep. Whether you crave comfort food, gourmet dishes, or healthy options, YumRide brings a diverse culinary experience to your fingertips",
+    "technologies": ["JavaScript", "React", "Node.js", "Express", "MongoDB", "Mongoose", "REST API", "JWT", "bcrypt"]
+  },
+  {
+    "name": "QR Generator",
+    "image": "qr.png",
+    "description": "A QR code generator that allows users to create custom QR codes for various purposes. Users can input text, URLs, or contact information to generate QR codes that can be downloaded or shared. The app provides a simple and intuitive interface for creating and managing QR codes.",
+    "technologies": ["JavaScript", "REST API", "QRCode", "Html","CSS"]
+  },
+  {
+    "name": "Weather App",
+    "image": "weather.png",
+    "description": "A dynamic weather application that enables users to check current weather conditions based on city or location input. It fetches real-time weather data, including temperature, humidity, and wind speed, using a REST API and displays the information in an intuitive UI.",
+    "technologies": ["JavaScript", "Html","CSS","REST API"]
+  },
+  {
+    "name": "aktuwrld",
+    "image": "aktuwrld.png",
+    "description": "A study platform for students of AKTU (Dr. A.P.J. Abdul Kalam Technical University) that provides resources, notes, and previous year question papers for various courses and subjects. Students can access study materials, syllabus, and exam-related information to enhance their learning experience and academic performance.",
+    "technologies": ["JavaScript", "Html","CSS"]
+  },
+  {
+    "name": "Wifi Qr Code Generator",
+    "image": "wifiqr.png",
+    "description":"A wifi QR code generator that allows users to create QR codes for connecting to Wi-Fi networks. Users can input network SSID, password, and encryption type to generate a QR code that can be scanned by devices to automatically connect to the network. The app simplifies the process of sharing Wi-Fi credentials with guests or connecting to new networks.",
+    "technologies": ["JavaScript", "Html","CSS","REST API"]
+
+  }
+]
