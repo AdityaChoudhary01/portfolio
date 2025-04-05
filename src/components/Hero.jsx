@@ -35,11 +35,12 @@ const Hero = () => {
           </motion.div>
 
           {/* Right Side (Image) */}
-          <div className="mt-10 md:mt-0 md:ml-12">
+          <div className="mt-10 md:mt-0 md:ml-12 flex justify-center items-center">
             <motion.img
               src={image}
-              alt="Shivam"
-              className="w-60 select-none h-60 md:w-80 md:h-[100%] object-cover rounded-full shadow-md hover:shadow-lg shadow-blue-600 hover:shadow-purple-800 transition-all duration-300 hover:scale-102"
+              alt="Aditya"
+              className="w-60 h-60 md:w-80 md:h-80 object-cover rounded-full shadow-md hover:shadow-lg shadow-blue-600 hover:shadow-purple-800 transition-all duration-300 hover:scale-102"
+              style={{ objectPosition: "top" }} // Ensures the top of the image is visible
               animate={{
                 y: [0, -30, 0],
               }}
