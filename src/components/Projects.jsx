@@ -21,14 +21,23 @@ const ProjectCard = ({ project }) => {
   return (
     <ScrollReveal>
       <div className="flex flex-col items-center gap-8 md:flex-row md:gap-24">
-        <img
-          src={`/images/${project.image}`}
-          alt={project.name}
-          className="w-full cursor-pointer rounded-2xl transition-all duration-300 hover:scale-102 md:w-[300px] "
-        />
+        <a href={project.url} target="_blank" rel="noopener noreferrer">
+          <img
+            src={`/images/${project.image}`}
+            alt={project.name}
+            className="w-full cursor-pointer rounded-2xl transition-all duration-300 hover:scale-102 md:w-[300px]"
+          />
+        </a>
         <div className="flex flex-col gap-4">
           <div className="flex flex-col gap-2">
-            <div className="text-xl font-semibold">{project.name}</div>
+            <a
+              href={project.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xl font-semibold text-blue-500 hover:underline"
+            >
+              {project.name}
+            </a>
             <p className="text-gray-400 text-sm">{project.description}</p>
           </div>
           <div className="flex flex-wrap gap-5">
