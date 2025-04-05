@@ -3,31 +3,56 @@
     "name": "YumRide",
     "image": "yumride.png",
     "description": "YumRide is an innovative food delivery platform that connects users with their favorite local restaurants and delivers delicious meals right to their doorstep. Whether you crave comfort food, gourmet dishes, or healthy options, YumRide brings a diverse culinary experience to your fingertips",
-    "technologies": ["JavaScript", "React", "Node.js", "Express", "MongoDB", "Mongoose", "REST API", "JWT", "bcrypt"]
+    "technologies": ["JavaScript", "React", "Node.js", "Express", "MongoDB"],
+    "url": "https://food-delivery-frontend-mo9e.onrender.com/"
   },
   {
     "name": "QR Generator",
     "image": "qr.png",
     "description": "A QR code generator that allows users to create custom QR codes for various purposes. Users can input text, URLs, or contact information to generate QR codes that can be downloaded or shared. The app provides a simple and intuitive interface for creating and managing QR codes.",
-    "technologies": ["JavaScript", "REST API", "QRCode", "Html","CSS"]
+    "technologies": ["JavaScript", "REST API", "QRCode", "Html", "CSS"],
+    "url": "https://adityachoudhary01.github.io/QrCodeGenerator/"
   },
   {
     "name": "Weather App",
     "image": "weather.png",
     "description": "A dynamic weather application that enables users to check current weather conditions based on city or location input. It fetches real-time weather data, including temperature, humidity, and wind speed, using a REST API and displays the information in an intuitive UI.",
-    "technologies": ["JavaScript", "Html","CSS","REST API"]
+    "technologies": ["JavaScript", "Html", "CSS", "REST API"],
+    "url": "https://adityachoudhary01.github.io/WeatherApp/"
   },
   {
     "name": "aktuwrld",
     "image": "aktuwrld.png",
     "description": "A study platform for students of AKTU (Dr. A.P.J. Abdul Kalam Technical University) that provides resources, notes, and previous year question papers for various courses and subjects. Students can access study materials, syllabus, and exam-related information to enhance their learning experience and academic performance.",
-    "technologies": ["JavaScript", "Html","CSS"]
+    "technologies": ["JavaScript", "Html", "CSS"],
+    "url": "https://aktuwrld.netlify.app/"
   },
   {
     "name": "Wifi Qr Code Generator",
     "image": "wifiqr.png",
     "description":"A wifi QR code generator that allows users to create QR codes for connecting to Wi-Fi networks. Users can input network SSID, password, and encryption type to generate a QR code that can be scanned by devices to automatically connect to the network. The app simplifies the process of sharing Wi-Fi credentials with guests or connecting to new networks.",
-    "technologies": ["JavaScript", "Html","CSS","REST API"]
-
+    "technologies": ["JavaScript", "Html", "CSS", "REST API"],
+    "url": "https://adityachoudhary01.github.io/WifiQrCodeGenerator/"
+  },
+  {
+    "name": "Portfolio Website",
+    "image": "portfolio.png",
+    "description": "A personal portfolio website showcasing projects, skills, and contact information. Built with modern web technologies, it provides an interactive and visually appealing way to present professional achievements.",
+    "technologies": ["React", "Tailwind CSS", "JavaScript"],
+    "url": "https://adityachoudharyportfolio.netlify.app/"
+  },
+  {
+    "name": "Expense Tracker",
+    "image": "expensetracker.png",
+    "description": "An expense tracking application that helps users manage their finances by recording income and expenses. Users can categorize transactions, set budgets, and visualize spending patterns through charts and graphs.",
+    "technologies": ["React", "Node.js", "Express", "MongoDB"],
+    "url": "https://khatabook-qcb9.onrender.com/"
+  },
+  {
+    "name": "JAT Universal",
+    "image": "jatuniversal.png",
+    "description": "JAT Universal is a comprehensive platform offering a wide range of services, including e-commerce, logistics, and customer support. It aims to simplify business operations and enhance user experience through innovative solutions.",
+    "technologies": ["Html", "CSS"],
+    "url": "https://adityachoudhary01.github.io/JatUniversal/"
   }
 ]
