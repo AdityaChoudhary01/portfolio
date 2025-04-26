@@ -1,11 +1,4 @@
 [
-   {
-    "name": "Chatty",
-    "image": "Chatty.png",
-    "description": "Chatty is a full-stack real-time chat application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It features user authentication with JWT, real-time messaging with Socket.io, and modern UI styling using TailwindCSS and DaisyUI. The app supports online user status, global state management with Zustand, and provides a seamless communication experience with responsive design.",
-    "technologies": ["JavaScript", "React", "Node.js", "Express", "MongoDB","JWT","Cloudinary","Axios","React Hot Toast"],
-    "url": "https://chat-app-adityachoudhary.netlify.app/"
-  },
   {
     "name": "YumRide",
     "image": "yumride.png",
@@ -61,5 +54,12 @@
     "description": "JAT Universal is a comprehensive platform offering a wide range of services, including e-commerce, logistics, and customer support. It aims to simplify business operations and enhance user experience through innovative solutions.",
     "technologies": ["Html", "CSS"],
     "url": "https://jatuniversal-history.netlify.app/"
+  },
+    {
+    "name": "Chatty",
+    "image": "Chatty.png",
+    "description": "Chatty is a full-stack real-time chat application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It features user authentication with JWT, real-time messaging with Socket.io, and modern UI styling using TailwindCSS and DaisyUI. The app supports online user status, global state management with Zustand, and provides a seamless communication experience with responsive design.",
+    "technologies": ["JavaScript", "React", "Node.js", "Express", "MongoDB","JWT","Cloudinary","Axios","React Hot Toast"],
+    "url": "https://chat-app-adityachoudhary.netlify.app/"
   }
 ]
