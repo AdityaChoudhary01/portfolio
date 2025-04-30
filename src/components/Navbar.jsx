@@ -63,7 +63,7 @@ const Navbar = () => {
           </a>
         </li>
         <li className="cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100">
-          <a href="https://www.instagram.com/aditya_chdry_21/">
+          <a href="https://www.instagram.com/aditya_choudhary__021/">
             <BsInstagram />
           </a>
         </li>
